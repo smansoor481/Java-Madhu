@@ -6,6 +6,6 @@ public class Fibino {
         {
             sum = sum +i;
         }
-        System.out.println("Fibinosis of the number is: "+sum);
+        System.out.println("Fibinosis of the number is: "+sum); 
     }
 }
